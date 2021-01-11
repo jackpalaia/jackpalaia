@@ -16,4 +16,4 @@ Some of my interests outside of academics include weightlifting, stock trading, 
 
 You can find me on [LinkedIn](https://linkedin.com/in/jackpalaia) and [GitHub](https://github.com/jackpalaia), or you can [email me](mailto:jack@jackpalaia.com).
 
-Here's a link to my [resume](https://jackpalaia.com/resume.pdf)
+Here's a link to my [resume](https://jackpalaia.com/resume.pdf).
