@@ -1,10 +1,8 @@
 # Hey, my name's Jack.
 
-## This spring I'm working as a software engineer intern at Dreambound!
+## This summer I'm working at Amazon as a software development engineer (SDE) intern!
 
-### Dreambound is a startup based in San Fransico that pairs job seekers with 3-14 week job training classes, finances their tuition, and then places them with employers immediatley upon completion.
-
-### Some of our investors include [Union Square Ventures](https://usv.com), [Collaborative Fund](https://www.collaborativefund.com/), [8vc](https://www.8vc.com/), [Moxxie](https://www.moxxie.vc/), [RocNation](https://en.wikipedia.org/wiki/Roc_Nation), and former leaders from Affirm, General Assembly, Twitter, and companies in educations and media.
+### This past spring I was working as a SWE intern at Dreambound, a startup based in San Francisco that pairs job-seekers with training programs to help them find employment.
 
 I'm currently a sophomore CS major at Georgia Tech with concentrations in intelligence and info internetworks. Some of my academic interests include full-stack web development, computer networking, and high performance computing.
 
